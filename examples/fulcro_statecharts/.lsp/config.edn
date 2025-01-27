@@ -1,0 +1,2 @@
+{:cljfmt {:extra-indents {state [[:inner 0]]
+                          statechart [[:inner 0]]}}}
